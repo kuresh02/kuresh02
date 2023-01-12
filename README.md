@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kuresh02
-- 👀 I’m interested in ...Java,automation testing, Data analysis 
+- 👀 I’m interested in ...Java,automation testing, Data analysis by panda, Numpy
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on Data Science,Cloud computing.
 - 📫 How to reach me kuresh02@gmail.com
